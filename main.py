@@ -9,7 +9,7 @@ import os
 POEM = """The kettle clicks off.
 I do not pour.
 The morning can wait —
-the cup, the rush, the door.
+the cup, the keys, the door.
 
 I sit with the steam
 as it thins to air.
